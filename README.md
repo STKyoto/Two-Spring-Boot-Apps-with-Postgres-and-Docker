@@ -8,7 +8,7 @@ To run all services, follow these steps from the project's root directory (where
 
 1. **Clone the repository**
 git clone https://github.com/STKyoto/Two-Spring-Boot-Apps-with-Postgres-and-Docker.git
-cd <project_folder_name>
+cd demo/demo
 
 2. **Use Docker Compose to build the images and start all services (database, auth-api, and data-api).**
 docker compose up --build
